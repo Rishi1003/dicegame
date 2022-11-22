@@ -2,8 +2,8 @@ var n1 , n2;
 n1 = Math.floor(Math.random()*6)+1;
 n2 = Math.floor(Math.random()*6)+1;
 var att1 ,att2,winner;
-att1 = "/images/dice"+n1+".png";
-att2 = "/images/dice"+n2+".png";
+att1 = "https://rishi1003.github.io/dicegame/images/dice"+n1+".png";
+att2 = "https://rishi1003.github.io/dicegame/images/dice"+n2+".png";
 var p1=prompt("enter player 1 name");
 if(p1 !== '' && p1 !== null)
 {

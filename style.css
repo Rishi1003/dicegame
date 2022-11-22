@@ -1,0 +1,21 @@
+body{
+    padding: 1% 10%;
+    text-align: center;
+    background-color: black;
+    color: #4ecca3;
+}
+h1{
+    font-family: 'Lobster',cursive;
+    font-size: 5rem;
+    margin: 30px 0px;
+}
+footer{
+    margin-bottom: 30px;
+}
+.row{
+    margin: 0px 0px 40px 0px;
+}
+.player-name{
+    font-family: 'Indie Flower',cursive;
+    font-size: 3rem;
+}
